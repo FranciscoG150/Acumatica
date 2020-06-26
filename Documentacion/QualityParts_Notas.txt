@@ -1,0 +1,7 @@
+/* JUEVES 25 JUNIO 2020 */
+
+Quality Parts:
+	- Contenación.
+	- Actualizar datos en la nube
+		Desde Acumatica.
+	- Precios (Prioridad 1).
